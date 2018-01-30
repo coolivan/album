@@ -1,0 +1,31 @@
+{
+  "name": "album",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ivan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "date": "^1.0.2",
+    "dateformat": "^3.0.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "formidable": "^1.1.1",
+    "multer": "^1.3.0",
+    "mustache": "^2.3.0",
+    "randomatic": "^2.0.0"
+  },
+  "description": "little album without database",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "album"
+  }
+}
